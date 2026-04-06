@@ -18,7 +18,7 @@ public class Main {
 	        String webPort = System.getenv("PORT");
 
 	        if(webPort == null || webPort.isEmpty()) {
-	          webPort = "8080";
+	          webPort = "8081";
 	        }
 
 	        tomcat.setPort(Integer.valueOf(webPort));

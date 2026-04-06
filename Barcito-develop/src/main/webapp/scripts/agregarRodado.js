@@ -35,7 +35,7 @@ $(function () {
             if (result.isConfirmed) {
 
                 $.ajax({
-                    url: contextPath + '/CrearRodado',
+                    url: contextPath + '/CrearRodadoController',
                     type: 'POST',
                     dataType: 'json',
 
