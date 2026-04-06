@@ -1,0 +1,2 @@
+# Barcito
+projecto monolito ejemplo 
